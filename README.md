@@ -1,4 +1,3 @@
-<!--### Hi, there 👋 I'm Mustapha Issa Toyin-->
 <h1 align="center">⚡️ Hi, I'm Adewale Muritala Akinyemi ⚡️</h1>
 <h4 align="center"><a href="https://facebook.com/akinyemi147">Facebook</a>
 
@@ -6,7 +5,7 @@
 
  🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]
  🌱 I’m currently Software developer @ Brainstorm ITsolution
- 💬 Ask me about JavaScript and React
+ 💬 Ask me about JavaScript,ReactJS,ReactNative,ExpressJS,NodeJS and MYSQL
  📫 How to reach me: [adewalemurthador@gmail.com]
  😄 Pronouns: he/him
  🎧 Listening to: blank
