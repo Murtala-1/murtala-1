@@ -3,12 +3,12 @@
 
 
 
- 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]
- 🌱 I’m currently Software developer @ Brainstorm ITsolution
- 💬 Ask me about JavaScript|ReactJS|ReactNative|ExpressJS|NodeJS|MYSQL
- 📫 How to reach me: [adewalemurthador@gmail.com]
- 😄 Pronouns: he/him
- 🎧 Listening to: blank
+ 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[bitcoops]<br/>
+ 🌱 I’m currently Software developer @ Brainstorm ITsolution<br/>
+ 💬 Ask me about JavaScript|ReactJS|ReactNative|ExpressJS|NodeJS|MYSQL<br/>
+ 📫 How to reach me: [adewalemurthador@gmail.com]<br/>
+ 😄 Pronouns: he/him<br/>
+ 🎧 Listening to: blank<br/>
 
 [![murtala-1's github stats](https://github-readme-stats.vercel.app/api?username=murtala-1&count_private=true&show_icons=true&theme=radical)](https://github.com/murtala-1/github-readme-stats)
 
