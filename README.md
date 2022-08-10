@@ -13,15 +13,3 @@
 [![murtala-1's github stats](https://github-readme-stats.vercel.app/api?username=murtala-1&count_private=true&show_icons=true&theme=radical)](https://github.com/murtala-1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8790fahad)](https://github.com/murtala-1/github-readme-stats)
-
-
-Here are some ideas to get you started:
-
-
- 🌱 I’m currently learning ...<br />
- 👯 I’m looking to collaborate on ...<br />
- 🤔 I’m looking for help with ...<br />
- 💬 Ask me about ...<br />
- 📫 How to reach me: ...<br />
- 😄 Pronouns: ...<br />
- ⚡ Fun fact: ...
